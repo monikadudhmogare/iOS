@@ -1,4 +1,4 @@
-# iOS
+# iOS Applications
 
 1. FMDBDatabase
 2. Fall Detection App
